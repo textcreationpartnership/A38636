@@ -1,0 +1,872 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay toward the clearer discovering of the true beginnings, durations and endings, of each particular king in Judah and Israel and the two lines thereof, compared and adjusted, according to the scriptures referring thereunto; and, in order to understanding of the reference of those 390, and 40 dayes, mention'd Ezekiel 4th. v.5,6. (Beginning after Solomon.) Upon enquiry thereinto, and examination thereof, I premise 2 or 3 things. (1.) That Rehoboams and Jereboams reigns must begin much together; else the 18th of Jeroboam's could not be the first of Abijahs, and his 20th the beginning of Asa's, Kings of Judah. (2.) That there's a dispute with some, whether Jehoram, Jehosaphat's son, and King of Judah, did reign 8 years or 4? some say the latter, (and 4 more only with his father. But to clear, that there must be 8 to him alone (or 4 more to his father and him, which amounts to the same number of years.) ... and so at last, to the remainder of the kings of Judah ending in Zedekiah; when the kings of Israel had ceased in Hoshea before.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38636</idno>
+            <idno type="STC">Wing E3295C</idno>
+            <idno type="STC">ESTC R218784</idno>
+            <idno type="EEBO-CITATION">99830349</idno>
+            <idno type="PROQUEST">99830349</idno>
+            <idno type="VID">34800</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38636)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34800)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2090:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay toward the clearer discovering of the true beginnings, durations and endings, of each particular king in Judah and Israel and the two lines thereof, compared and adjusted, according to the scriptures referring thereunto; and, in order to understanding of the reference of those 390, and 40 dayes, mention'd Ezekiel 4th. v.5,6. (Beginning after Solomon.) Upon enquiry thereinto, and examination thereof, I premise 2 or 3 things. (1.) That Rehoboams and Jereboams reigns must begin much together; else the 18th of Jeroboam's could not be the first of Abijahs, and his 20th the beginning of Asa's, Kings of Judah. (2.) That there's a dispute with some, whether Jehoram, Jehosaphat's son, and King of Judah, did reign 8 years or 4? some say the latter, (and 4 more only with his father. But to clear, that there must be 8 to him alone (or 4 more to his father and him, which amounts to the same number of years.) ... and so at last, to the remainder of the kings of Judah ending in Zedekiah; when the kings of Israel had ceased in Hoshea before.</title>
+               </titleStmt>
+               <extent>[6] leaves   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Unsigned and unpaginated.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Copy stained and has print show-through.</note>
+                  <note>Reproduction of the original in the John Rylands University Library, Manchester, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T --  Chronology --  Early works to 1800.</term>
+               <term>Kings and rulers, Ancient --  Early works to 1800.</term>
+               <term>Kings and rulers --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34800:1" rendition="simple:additions"/>
+            <pb facs="tcp:34800:1" rendition="simple:additions"/>
+            <p>AN ESSAY Toward the Clearer Diſcovering Of the True <hi>Beginnings, Durations</hi> and <hi>Endings,</hi> of each Particular KING in <hi>Judah</hi> and <hi>Iſra<g ref="char:EOLhyphen"/>el;</hi> and the Two LINES thereof, Compa<g ref="char:EOLhyphen"/>red and Adjuſted, according to the <hi>Scriptures</hi> Referring thereunto; and, in Order to Un<g ref="char:EOLhyphen"/>derſtanding of the <hi>Reference</hi> of thoſe 390, and 40 Dayes, Mention'd <hi>Ezekiel 4th.</hi> v. 5, 6.</p>
+            <p>Upon <hi>Enquiry</hi> thereinto, and <hi>Examination</hi> thereof, I Premiſe 2 or 3 things. (1.) That <hi>Rehoboams</hi> and <hi>Jereboams</hi> Reigns muſt Begin much toge<g ref="char:EOLhyphen"/>ther; Elſe the <hi>18th</hi> of <hi>Jeroboam's</hi> could not be the Firſt of <hi>Abijahs,</hi> and his <hi>20th</hi> the Beginning of <hi>Aſa</hi>'s, KINGS of <hi>Judah.</hi> (2.) That there's a Diſpute with ſome, whether <hi>Jehoram, Jehoſaphat's</hi> Son, and King of <hi>Judah,</hi> did Reign 8 years or 4? ſome ſay the latter, (and 4 more only with his Father. But to clear, that there muſt be 8 to him alone (or 4 more to his Father and him, which amounts to the ſame Number of Years.) I offer this; That <hi>Jehu</hi> (King of <hi>Iſrael)</hi> and <hi>Athaliah</hi> (Q. of <hi>Judah)</hi> Began to Reign at the ſame time, (for <hi>A<g ref="char:EOLhyphen"/>haziah</hi> of <hi>Judah,</hi> and <hi>Jehoram</hi> (or <hi>Joram)</hi> of <hi>Iſrael,</hi> their next Predeceſſors, fell together by the ſame hand, <hi>viz.</hi> of <hi>Jehu,</hi> 2 <hi>Kings</hi> 9.24. and 27 <hi>verſes.)</hi> See <hi>Chap.</hi> 11. 4. and 12. 1. (3.) Whereas ſome give 29 years to <hi>Amaziah</hi> (King of <hi>Judah)</hi> and 52 to <hi>Azariah</hi> (or <hi>
+                  <g ref="char:V">Ʋ</g>zziah)</hi> his Son, I allot 11 years leſs (to one or the other) as appears by what follows: And ſo lets proceed to ſee how the years of each Line of Kings concur herewith; firſt to <hi>Athalia</hi> and <hi>Jehu;</hi> and afterward to the end of the Line, whilſt the Kings of <hi>Iſrael</hi> did joyntly continue with the Kings of <hi>Judah,</hi> and ſo at laſt, to the remainder of the Kings of <hi>Judah</hi> ending in <hi>Zedekiah;</hi> when the Kings of <hi>Iſrael</hi> had ceaſed in <hi>Hoſhea</hi> before.</p>
+            <p>
+               <hi>Printed in the Year</hi> 1700.</p>
+            <pb facs="tcp:34800:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:34800:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="essay">
+            <pb facs="tcp:34800:3"/>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">KINGS of <hi>Judah.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Times of their Reigning with the Kings of</hi> Iſrael <hi>with Scriptures proving them.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Years.</hi>
+                     </cell>
+                     <cell role="label">KINGS of <hi>Iſrael.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Times of their Reign, with the Kings of</hi> Judah, <hi>With Scriptures to prove,</hi> &amp;c.</cell>
+                     <cell role="label">
+                        <hi>Years</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>Rehoboam<g ref="char:punc">▪</g>
+                        </hi>
+                     </cell>
+                     <cell>2 <hi>Chron.</hi> 12. 13. Reigned—</cell>
+                     <cell>17</cell>
+                     <cell>1 <hi>Jeroboam.</hi>
+                     </cell>
+                     <cell>Began with <hi>Rehoboam</hi> (King of <hi>Judah)</hi> and Ended the Second of <hi>Aſa,</hi> 1 <hi>Kings</hi> 15. 25. and Reigned (1 <hi>Kings</hi> 14. 20.)—</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>2 <hi>Abijam,</hi> or <hi>Abijah.</hi>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>gan the <hi>18th Jeroboam,</hi> and Reigned to the <hi>20th</hi> of <hi>
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eroboam</hi> (K<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of <hi>Iſrael)</hi> 2 <hi>Chron.</hi> 13.1. 1 <hi>King.</hi> 15. <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> and <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, <hi>
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 2d.—</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>2 <hi>Nadab,</hi>
+                     </cell>
+                     <cell>Began the Second of <hi>Aſa</hi> (King of <hi>Judah)</hi> and End<g ref="char:EOLhyphen"/>ed his <hi>3d,</hi> 1 <hi>Kings</hi> 15. 25. 28 <hi>v.</hi> (Reigning Cur<g ref="char:EOLhyphen"/>rent, <hi>v.</hi> 25.—</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>3 <hi>Aſa.</hi>
+                     </cell>
+                     <cell>Began the <hi>20th</hi> of <hi>Jeroboam,</hi> and ended about the <hi>3d</hi> of <hi>Ahab,</hi> 1 <hi>Kings</hi> 15. 9. <hi>Chap.</hi> 16. 29. and Reign<g ref="char:EOLhyphen"/>ed <hi>(Chap.</hi> 15<g ref="char:punc">▪</g> 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>)—</cell>
+                     <cell>41</cell>
+                     <cell>3 <hi>Baaſha,</hi>
+                     </cell>
+                     <cell>Began the <hi>3d</hi> of <hi>Aſa,</hi> and ended the <hi>26th</hi> thereof, 1 <hi>Kings</hi> 15. 28. 33, with <hi>Chap.</hi> 16. 8. (and Reign<g ref="char:EOLhyphen"/>ed, <hi>v.</hi> 5.)—</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>4 <hi>Jehoſaphat.</hi>
+                     </cell>
+                     <cell>Began the <hi>4th</hi> of <hi>
+                           <gap reason="illegible" resp="#APEX" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>,</hi> and ended the <hi>5th</hi> of <hi>Joram</hi> (Kings of <hi>Iſrael)</hi> 1 <hi>Kings</hi> 22. 41. 2 <hi>Kings</hi> 8. 16. and Reigned (1 <hi>Kings</hi> 22. 42.—</cell>
+                     <cell>25</cell>
+                     <cell>4 <hi>Elah,</hi>
+                     </cell>
+                     <cell>Began the ſaid 26 of <hi>Aſa,</hi> and Ended the <hi>27th</hi> Dit<g ref="char:EOLhyphen"/>to, 1 <hi>Kings</hi> 16. 8. <hi>v.</hi> 15. and Reigned <hi>(v.</hi> 8.)—</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>5 <hi>Jehoram.</hi>
+                     </cell>
+                     <cell>Began (Alone) the <hi>5th.</hi> of <hi>Joram</hi> (King of <hi>Iſrael)</hi> and ended the <hi>12th</hi> of the ſaid <hi>Joram,</hi> 2 <hi>Kings</hi> 8. 16. and <hi>v.</hi> 25. (and Reigned) <hi>v.</hi> 17.—</cell>
+                     <cell>8</cell>
+                     <cell>5 <hi>Zimri,</hi>
+                     </cell>
+                     <cell>Began the <hi>27th Aſa,</hi> Reigning 7 days, 1 <hi>Kings</hi> 16. 15.—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>6 <hi>Ahaziah.</hi>
+                     </cell>
+                     <cell>Began the ſaid laſt <hi>Joram,</hi> and ended therewith, be<g ref="char:EOLunhyphen"/>ing Slain by <hi>Jehu,</hi> 2 <hi>Kings</hi> 8. 25. <hi>Chap.</hi> 9. 27. (and ſo Reigned)—</cell>
+                     <cell>1</cell>
+                     <cell>6 <hi>Omri,</hi>
+                     </cell>
+                     <cell>Began his firſt 6 (with <hi>Tibni)</hi> the ſaid <hi>27th</hi> of <hi>Aſa,</hi> and his other 6 (alone) from the <hi>31th</hi> of <hi>Aſa<g ref="char:punc">▪</g>
+                        </hi> Ending in his <hi>38th,</hi> 1 <hi>Kings</hi> 16. 15. and 22. <hi>v.</hi> 23. <hi>v.</hi> 29. and Reigned in all <hi>(v.</hi> 23.)—</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>All theſe Kings Reigns hitherto Amount to—</hi>
+                     </cell>
+                     <cell>95</cell>
+                     <cell>7 <hi>Ahab,</hi>
+                     </cell>
+                     <cell>Began the ſaid 38 of <hi>Aſa,</hi> Ending the <hi>17th</hi> of <hi>Jehoſa<g ref="char:EOLhyphen"/>phat,</hi> 1 <hi>Kings</hi> 16. 29. <hi>Chap.</hi> 22.51. Reigning <hi>(Ch.</hi> 16. 29.) Current—</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell rows="3"> </cell>
+                     <cell rows="3">Here <hi>Note,</hi> Though 8 Years be Allowed to <hi>Je<g ref="char:EOLhyphen"/>horam</hi> above, as aforeſaid, yet 3 Years are theſe, ſhort of the Kings of <hi>Iſrael</hi> (by this Computation) but they being more by Three Kings than <hi>Judahs,</hi> and the Currences of years more manifeſt (and Imcom<g ref="char:EOLhyphen"/>pleat) as appears by <hi>Jeroboams</hi> 
+                        <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, <hi>Nadabs</hi> 2 years, and others; thoſe 3 years may very well be taken up therein. And ſo I proceed to the next.</cell>
+                     <cell rows="3"> </cell>
+                     <cell>8 <hi>Ahaziah,</hi>
+                     </cell>
+                     <cell>Began the <hi>17th</hi> of <hi>Jehoſhaphat,</hi> and Ended the <hi>18th.</hi> 1 <hi>Kings</hi> 22.51. 2 <hi>Kings</hi> 3.1. and Reigned, 1 <hi>Kings</hi> 22. 51. (Current.)—</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>9 <hi>Joram,</hi>
+                     </cell>
+                     <cell>Began the <hi>18th</hi> of <hi>Jehoſaphat,</hi> and Ended the <hi>1ſt</hi> of <hi>Ahaziah,</hi> 2 <hi>Kings</hi> 3. 1. <hi>Chap.</hi> 9. 29, with <hi>Chap.</hi> 8. 25. and Reigned (2 <hi>Kings</hi> 3—1.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>All theſe Kings hitherto amount to—</hi>
+                     </cell>
+                     <cell>98</cell>
+                  </row>
+                  <row>
+                     <cell>7 <hi>Athalia.</hi>
+                     </cell>
+                     <cell>Began with <hi>Jehu</hi> for the foremention'd Reaſon, and Reigned (Current.)—</cell>
+                     <cell>7</cell>
+                     <cell>10 <hi>Jehu,</hi>
+                     </cell>
+                     <cell>
+                        <hi>And ſo proceed to the next.</hi> Began with <hi>Athaliah,</hi> and Ended the <hi>23d</hi> of <hi>Joaſh,</hi> 2 <hi>Kings</hi> 13. 1. Reigning (2 <hi>Kings</hi> 10. 36.)—</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>8 <hi>Joaſh</hi>
+                     </cell>
+                     <cell>Began the <hi>7th.</hi> of <hi>Jehu,</hi> and Ended the <hi>2d</hi> of <hi>Jeho<g ref="char:EOLhyphen"/>aſh</hi> (K. of <hi>Iſrael)</hi> 2 <hi>Kings</hi> 12. 1. <hi>Chap.</hi> 14. 1. (and Reigned, 2 <hi>Kings</hi> 12.1. (40. years.) Current (and allowing 7 years to <hi>Athalia,</hi> I allow him but 39—</cell>
+                     <cell>39</cell>
+                     <cell>11 <hi>Jehoaz,</hi>
+                     </cell>
+                     <cell>Began that <hi>23d</hi> of <hi>Joaſh,</hi> King of <hi>Judah,</hi> and Ended the <hi>37th,</hi> (or <hi>39th</hi> as ſome think) Ditto, 2 <hi>Kings</hi> 13. 1. and 10. <hi>v.</hi> Reigning, <hi>v.</hi> 1.—</cell>
+                     <cell>17</cell>
+                  </row>
+                  <pb facs="tcp:34800:4" rendition="simple:additions"/>
+                  <row>
+                     <cell role="label">KINGS of <hi>Judah.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Times of their Reigning with the Kings of</hi> Iſrael. <hi>with Scriptures proving them.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Years.</hi>
+                     </cell>
+                     <cell role="label">KINGS of <hi>Iſrael.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Times of their Reigning, with the Kings of</hi> Judah, <hi>With Scriptures proving them.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Yeares.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>9 <hi>Amaziah,</hi>
+                     </cell>
+                     <cell>Began the 2d of <hi>Jehoaſh,</hi> and Ended the 15th of <hi>Je<g ref="char:EOLhyphen"/>roboam</hi> (the <hi>2d)</hi> for <hi>Jeroboam,</hi> began in his <hi>15th,</hi> 2 <hi>Kings</hi> 14. 23. which is <hi>(v.</hi> 2.) 29 years, as he is ſaid to Reign, 2 <hi>Kings</hi> 14. 2.</cell>
+                     <cell>29</cell>
+                     <cell>12 <hi>Jehoaſh.</hi>
+                     </cell>
+                     <cell>Began that <hi>37th,</hi> or <hi>39th</hi> of <hi>Joaſh,</hi> and Ended the <hi>15th</hi> of <hi>Amaziah</hi> (Kings of <hi>Judah)</hi> 2 <hi>Kings</hi> 
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>3. 10 <hi>Chap.</hi> 14. 23. Reigning (2 <hi>Kings</hi> 13. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.)</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell rows="5">10 <hi>Azariah,</hi> called alſo <hi>
+                           <g ref="char:V">Ʋ</g>zziah.</hi>
+                     </cell>
+                     <cell rows="5">
+                        <p>Began the <hi>4th</hi> of <hi>Jeroboam</hi> (aforeſaid) his 11 or 12 years with his Father (who dyed the <hi>15th</hi> of <hi>Jero<g ref="char:EOLhyphen"/>boam,</hi> 2 <hi>Kings</hi> 14. 17. After he fled from <hi>Jeruſa<g ref="char:EOLhyphen"/>lem</hi> to <hi>Lachiſh,</hi> as I ſuppoſe) And ſo Began <gap reason="illegible" resp="#APEX" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> to Reign alone at his <hi>15th,</hi> and Ended the Firſt of <hi>Pekah;</hi> For from the <hi>15th</hi> of <hi>Jeroboam</hi> to <hi>Jerobo<g ref="char:EOLhyphen"/>am's 41th,</hi> and thence to <hi>Pekak,</hi> is but 41 years, and ſo of the 52 years he is ſaid to Reign; 11 years is to be reckon'd to his Fathers 29. And ſo he Reigned ſolely (2 <hi>Kings</hi> 14. 23. with 15. 28.)</p>
+                        <p>To clear this further, ſee my <hi>Poſtſcript</hi> about this Kings Reign, what is ſaid, too large to Inſert here.</p>
+                     </cell>
+                     <cell rows="5">41</cell>
+                     <cell>13 <hi>Jeroboam.</hi>
+                     </cell>
+                     <cell>Began that <hi>15th</hi> of <hi>Amaziah, Chap.</hi> 14. 23. and End<g ref="char:EOLhyphen"/>ed the <hi>38th</hi> of <hi>Azariah</hi> (reckoning the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> years he Reigned with his Father, otherwiſe it was but his <hi>27th</hi> Alone) 2 <hi>Kings</hi> 15 8. and Reigned (2 <hi>Kin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> 14. 23.)</cell>
+                     <cell>41</cell>
+                  </row>
+                  <row>
+                     <cell>14 <hi>Zachariah.</hi>
+                     </cell>
+                     <cell>Began that <hi>38th</hi> of <hi>Azariah,</hi> and Reigned 2 <hi>King<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> 15. 3. 6 <hi>Months.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>15 <hi>Shallum.</hi>
+                     </cell>
+                     <cell>Began the <hi>39th</hi> of <hi>Azariah,</hi> Reigning 2 <hi>Kings</hi> 15. 13. 1 <hi>Month</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>16. <hi>Menahem</hi>
+                     </cell>
+                     <cell>Began the ſaid <hi>39th</hi> and Ended the <hi>50th</hi> of <hi>Aza<g ref="char:EOLhyphen"/>riah,</hi> 2 <hi>Kings</hi> 15. 17. and <hi>v.</hi> 22. and Reigned <hi>(v.</hi> 17.)</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>17 <hi>Pekahiah.</hi>
+                     </cell>
+                     <cell>Began the ſaid <hi>50th</hi> of <hi>Ahaziah,</hi> and End ed his <hi>52d,</hi> 2 <hi>Kings</hi> 15. 23. and 27. Reigning <hi>(v.</hi> 23.)</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">11 <hi>Jotham.</hi>
+                     </cell>
+                     <cell rows="2">Began the Beginning of the Second <hi>Pekah</hi> (King of <hi>Iſrael)</hi> and Ended his <hi>17th,</hi> 2 <hi>Kings</hi> 15. 32. with 16. 1. and Reigned Alone <hi>(Ch.</hi> 15. 33.) 16 years. And from the ground here mention'd (and <hi>Pekah</hi>'s Reign in <hi>Iſrael)</hi> it ſeems he Reigned about 4 <hi>Years</hi> with his Son <hi>Ahaz,</hi> and ſo called the <hi>20th Jotham,</hi> which ſome conceive (it may be) becauſe of his 4 years before in his Fathers time, as Vice<g ref="char:EOLhyphen"/>roy, 2 <hi>Kings</hi> 15. 5. for otherwiſe he Reigned a<g ref="char:EOLhyphen"/>bout 16. But, I rather think about 4 more was with his Son aforeſaid, (which made his 16 Alone to be the <hi>20th)</hi> who, being King with his Father, Began the <hi>17th</hi> of <hi>Pehah,</hi> and ſo continued toge<g ref="char:EOLhyphen"/>ther to <hi>Pekah's</hi> 20; (when <hi>Ahaz</hi> Alone, and <hi>Hoſhea</hi> alſo as Tributary Began) which Harmonizes, as thus appears; <hi>Pekah</hi> began about the 1 year be<g ref="char:EOLhyphen"/>fore <hi>Jotham,</hi> 2 <hi>Kings</hi> 15. 27 And <hi>Jotham's</hi> 19, with <hi>Ahaz's</hi> 16, and <hi>Hezekiah's</hi> 6, make 41. So <hi>Peka's</hi> 20, and <hi>Hoſhea</hi> 21, in all (who ſlew <hi>Pekah</hi> and Reigned in his ſtead (makes the ſame num<g ref="char:EOLhyphen"/>ber 41. Now, ſince theſe 4 laſt years was Current, I allow but 3, and <hi>Ahaz</hi> 16 compleat (or 35 be<g ref="char:EOLhyphen"/>tween</cell>
+                     <cell>16</cell>
+                     <cell>18 <hi>Pekah</hi>
+                     </cell>
+                     <cell>Began the <hi>52d, Ditto;</hi> Ending the <hi>20th</hi> of <hi>Jotham,</hi> and the <hi>3d</hi> or <hi>4th</hi> of <hi>Ahaz</hi> (2 <hi>Kings</hi> 16. 1.) then Reigning with his Father: which was his Firſt Alone (as appears by <hi>Hoſhea</hi>'s Abſolute Reign of 9 years, Begun with the <hi>12th</hi> of <hi>Ahaz,</hi> 2 <hi>Kings</hi> 17. 1.) and, whoſe <hi>3d</hi> (of his <hi>9th)</hi> Ended about his <hi>15th</hi> compleat, for then <hi>Hezekiah</hi> Began, 2 <hi>King<g ref="char:punc">▪</g>
+                        </hi> 18. 1.) otherwiſe the <hi>17th</hi> of <hi>Pekah,</hi> taking in his <hi>20th,</hi> would not be 4, and his 12 to <hi>Hoſhea</hi>'s Firſt, and 3 more, would not make 19. But taking <hi>Pekah</hi>'s <hi>20th</hi> to be <hi>Ahaz</hi>'s Firſt Alone, and his 12 to the Firſt of <hi>Hoſhea</hi>'s 9 and 3 <hi>Mo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> to his <hi>3d,</hi> makes 15 compleat. <hi>Pekah</hi> Reigning <hi>(Chap.</hi> 15. 27.)</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>19 <hi>Hoſhea</hi>
+                     </cell>
+                     <cell>Began the laſt <hi>Jotham</hi> (and Firſt of <hi>Ahaz</hi> Alone) as Tributary, (ſlaying then <hi>Pekah)</hi> and ſo con<g ref="char:EOLhyphen"/>tinued to <hi>Ahaz</hi>'s 12, and thence Began his 9 Years more Abſolute, (ſee 2 <hi>Kings</hi> 15. 30. with 17. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.) Now his 9 (laſt years) could not be from the <hi>20th</hi> of <hi>Jotham,</hi> when he ſlew <hi>Pekah,</hi> and Reigned in his ſtead; for they Began in <hi>Ahaz</hi>'s <hi>12th,</hi> who muſt Then Begin Alone; Therefore, as ſaid from <hi>Jotham</hi>'s <hi>20th,</hi> and conſequently <hi>Hoshea,</hi> as Tri<g ref="char:EOLhyphen"/>butrary</cell>
+                     <cell> </cell>
+                  </row>
+                  <pb facs="tcp:34800:5" rendition="simple:additions"/>
+                  <row>
+                     <cell role="label">KINGS of <hi>Judah</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Times of their Reign, with the Kings of</hi> Judah, <hi>With Scriptures to prove,</hi> &amp;c.</cell>
+                     <cell role="label">
+                        <hi>Years.</hi>
+                     </cell>
+                     <cell role="label">KINGS of <hi>Iſrael.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Times of their Peigning, with the Kings of Judah<g ref="char:punc">▪</g> With Scriptures proving them.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Years.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>them both) ſo ſet down in the Colume of <hi>Jotham</hi> 19.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>butary with <hi>Ahaz,</hi> to his <hi>12th,</hi> is 12 years; and from thence to the <hi>6th</hi> of <hi>Hezekiah,</hi> is 9 more; in all 21.—Reigning—</cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>12 <hi>Abaz.</hi>
+                     </cell>
+                     <cell>Began Alone the <hi>20th</hi> of <hi>Pekah,</hi> and Ended the <hi>3d</hi> of <hi>Hoſhea</hi>'s Abſolute Reign (or <hi>15th</hi> of his Whole<g ref="char:punc">▪</g> 2 <hi>Kings</hi> 16. 1. <hi>Chap.</hi> 17. 1. and Reigned <hi>Chap.</hi> 16.2.</cell>
+                     <cell>16</cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2">
+                        <hi>Total is</hi>
+                     </cell>
+                     <cell rows="2">253 7 <hi>Mon.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>13 <hi>Hezekiah</hi>
+                     </cell>
+                     <cell>Began in <hi>Hoſhea</hi>'s <hi>3d</hi> Year, the latter end, and ſo his <hi>9th</hi> (when the Kings of <hi>Iſrael</hi> ceaſed (by their Captivity) was—</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>All theſe Kings hitherto amount to—</hi>
+                     </cell>
+                     <cell>252</cell>
+                     <cell rows="9" cols="3">But it may be Objected; I have allowed the whole 98 years of the Kings of <hi>Iſrael,</hi> to make up their Total 253, to Adjuſt with <hi>Judah</hi>'s ſo many years, to the <hi>6th</hi> of <hi>Hezekiah.</hi> Whereas, 3 of thoſe 98, I have granted to be ta<g ref="char:EOLhyphen"/>ken off, to Adjuſt them with the firſt Diviſion of <hi>Judah</hi>'s 95. And therefore here's 2 years ſhort, in the <hi>2d.</hi> Diviſion; to make up the years of the Kings of <hi>Iſrael,</hi> to accord with <hi>Judah</hi>'s 25<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> aforeſaid. This I Acknowledge; and An<g ref="char:EOLhyphen"/>ſwer in the General, firſt; That the greater Confuſions in the Kingdom of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> (there being 4 Kings therein, in about One years ſpace, 2 <hi>Kings</hi> 15.8. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>8.) Calls for the years of <hi>Iſrael</hi>'s Kings to Accommodate with <hi>Judah</hi>'s; Rather than <hi>Judah</hi>'s with <hi>Iſrael</hi>'s; the Line alſo of the 390 being carried through the Kings of <hi>Judah,</hi> and not of <hi>Iſrael</hi>'s (though I have made uſe of them, as a Collateral Proofe to the Times of ſome of the Kings of <hi>Judah,</hi> which are more diſputa<g ref="char:EOLhyphen"/>ble,) and more Particularly; ſome have Allow'd <hi>Inter-Regnums</hi> among the Kings of <hi>Iſrael:</hi> I ſhall onely now Inſtance what I note my ſelf; Between <hi>Je<g ref="char:EOLhyphen"/>hu</hi> and <hi>Jehoahaz</hi> (his Son.) If we Allow <hi>Athaliab</hi> 7 years, and then to <hi>Joaſh</hi> (ſuc<g ref="char:EOLhyphen"/>ceeding her in <hi>Judah)</hi> his <hi>23d</hi> Current, there's 29 years, when <hi>Jehoabaz,</hi> the Son of <hi>Jehu,</hi> Began to Reign; whereas I have allowed <hi>Jehu</hi> 28. (here one allows an <hi>Inter-regnum</hi> of 2 years,) and ſo as to ſome others (as <hi>Menahem,</hi> ſee 2 <hi>Kings</hi> 15. 17. with <hi>v.</hi> 22. from 39 to 50, is above 10 years,) which I ſhall leave to others, of greater Abilities, (that may alſo have <hi>greater helps than I have had) to find out to their own,</hi> or others Satisfaction.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Thus, if rightly done, here is a pretty fair Agree<g ref="char:EOLhyphen"/>ment. And ſo I proceed with the Remainder of the Kings of <hi>Judah,</hi> till the laſt ceaſed, when their Captivity of 70 years was Begun. And 6 of <hi>Heze<g ref="char:EOLhyphen"/>kiahs</hi> being already ſet down, the Remainder is (Reigning 29. 2 <hi>Kings</hi> 29.)</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>14 <hi>Manaſſes,</hi>
+                     </cell>
+                     <cell>Reigned, 2 <hi>Kings</hi> 21. 1.</cell>
+                     <cell>5<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>15 <hi>Amon,</hi>
+                     </cell>
+                     <cell>Reigned, <hi>v.</hi> 19.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>16 <hi>Joſiah,</hi>
+                     </cell>
+                     <cell>Reigned, <hi>Chap.</hi> 22. 1.</cell>
+                     <cell>31</cell>
+                  </row>
+                  <row>
+                     <cell>17 <hi>Jehoahaz,</hi>
+                     </cell>
+                     <cell>Reigned, <hi>Chap.</hi> 23. 31.<hi>—Monohs</hi> 3.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>18 <hi>Jehojakim.</hi>
+                     </cell>
+                     <cell>Reigned, <hi>v.</hi> 36.</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>19 <hi>Jehoiachin,</hi>
+                     </cell>
+                     <cell>Reigned, <hi>Chap.</hi> 24. 8.<hi>—Months</hi> 3.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>20 <hi>Zedekiah,</hi>
+                     </cell>
+                     <cell>Reigned, <hi>v.</hi> 18. and <hi>Ch.</hi> 25. 2.</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The Total of all the Kings of</hi> Judah from Solomon—is—</cell>
+                     <cell>385</cell>
+                     <cell rows="2" cols="3"> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Now here's near 5 years ſhort of the 390. in <hi>Ezek.</hi> 4. Therefore if we Begin them (according to</cell>
+                     <cell> </cell>
+                  </row>
+                  <pb facs="tcp:34800:6" rendition="simple:additions"/>
+                  <row>
+                     <cell role="label">KINGS of <hi>Judah.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Times of their Reigning, with the Kings of</hi> Iſrael. <hi>with Scriptures proving them.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Junius)</hi> at the <hi>27th</hi> of <hi>Solomon,</hi> when he Degene<g ref="char:EOLhyphen"/>rated into Senſuality, Loving Strange Wives, con<g ref="char:EOLhyphen"/>trary to the Word of God, 1 <hi>Kings</hi> 11. 1. 4. and thereby into Idolatry, <hi>v.</hi> 9, 10, 11. and Againſt whom the Lord ſtirr'd up 3 Enemies in his dayes, <hi>v.</hi> 14. 16. and if we take his <hi>27th</hi> to his <hi>40th</hi> Inclu<g ref="char:EOLhyphen"/>ſive, there's—16 Years; which makes up the Number of-385 <hi>Years,</hi> 6 <hi>Months.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>To be—Which is beyond our Sum; But take out the 11 years of <hi>Ze<g ref="char:EOLhyphen"/>dekiah</hi>'s Reign, 401 and 6 <hi>Months.</hi> 11.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>At which time of <hi>Jehoachin,</hi> the 70 years Captivity did Begin, as is Apparent, and there is 390 <hi>Years</hi> 6 <hi>Months</hi> ſo near our <hi>Sum.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>But, Againſt this Reference it may be Objected; That <hi>Ezekiel</hi> Propheſied this after <hi>Jehojachin's</hi> Captivity, and therefore the Siege in his Reign and Captivity thereupon, cannot be the Reference of the 390 Days.</p>
+            <p>To which I Reply: The Occaſion and End of <hi>Ezekiels</hi> Propheſing thus, was to Conſirm what <hi>Jeremy</hi> had before Propheſied of the 70 Years Captivity and Deſtruction of the City and Temple, in order to Convince ſome (both in <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> and <hi>Babylon)</hi> that <hi>Jeremy</hi> was a True Prophet, and others withſtanding him were Falſe Prophets (ſee <hi>Jer.</hi> 28. beginning, and Chap. 29, 8, <hi>&amp;c.</hi> and <hi>ver.</hi> 24, <hi>&amp;c.)</hi> As alſo to ſtrengthen the Captives (already in <hi>Babylon)</hi> ſome of which at leaſt, might begin to Repent, that they had hearkned to <hi>Jeremy,</hi> and yeilded to the King of <hi>Babylon, Jeremy</hi> having Propheſied as aforeſaid: Whereas both Temple and City ſtood ſtill now 5 years after. Therefore <hi>Ezekiel</hi> here lays be<g ref="char:EOLhyphen"/>fore them (it may be) both the Time to the Captivity (now already begun from the firſt Siege and Surrendring of the City) and the Duration of the after Siege and Taking of the City and Deſtruction of it, together with the Temple; as a further Confirmation that what <hi>Jeremy</hi> had Propheſied, and was in part fulfil'd, ſhould fully be Accompliſhed by this Siege of the City, which he Typically Re<g ref="char:EOLhyphen"/>preſented to the (it may be) with the time of its Continuance. And we need not account it improbable that the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>90 may have ſuch a Twofold Reference, both to
+<pb facs="tcp:34800:6" rendition="simple:additions"/>
+the time of the Lords <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bearing with <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their bearing their Puniſhment in ſo long <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Siege (<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of their Captivity (now begun) to the end <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and other days mentioned in <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ground) to have a Litteral and <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ype, and <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>But to conclude, with a few words <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 40 days of bearing Iniquity. Iniquity, <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> but the Puniſhment of Sin. And ſo the <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Houſes of <hi>Iſrael</hi> Days for <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> (by <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and other ways) and to the time of <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> proved, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ented their Sin and Puniſhment at laſt <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 39<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Refer'd to <hi>Iſrael</hi> whoſe Captivity begun <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that diſtinct Kingdom began) To which it may be <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> reach to the Siege of <hi>Jeruſal<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m</hi> at the Captivity of <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> conſtrainedly concluſible from the Hieroglyphical <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> verſes of this Chapter, then its neceſſary to expreſs the <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> taking in both Kingdoms or Houſes of <hi>Iſrael;</hi> when <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ceaſe to be Kingdoms (as they had been.) And tho <hi>Juda</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> finally deſtroyed as at that Siege (and taking of <hi>Jeruſalem</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> afterward<g ref="char:punc">▪</g> Yet is it ſufficiently Exemplified in <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> time, <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſaid) the 70 years Captivity began, ſee 2 <hi>Kings</hi> 24<g ref="char:punc">▪</g> 10, 13. <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> why may not the Houſe of <hi>Iſrael</hi> firſtly include the whole <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in conjunction with the 2, as thoſe 390 years was the Period of the <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dom, as Entire, and as it ſtood in <hi>Solomon</hi>'s time; and of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth Kingdoms, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> afterward Divided and Diſtinct. Be ſides there was ſome Mixture of the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Tribes with the 2, All did not Cleave to <hi>Jeroboam,</hi> 2 <hi>Coxon</hi> 16. 17. See <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 21. 2. But it may be ſaid, If Both may be Included in the Houſe of <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Why then is the Houſe of <hi>Judah</hi> Particularly Expreſt after with the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> dayes<g ref="char:punc">▪</g> To which I Anſwer, It may be upon a double account. (1<g ref="char:punc">▪</g>) Becauſe the King<g ref="char:EOLhyphen"/>dom of <hi>Judah</hi> was continued longer than that of <hi>Iſrael</hi> (2.) As it had alſo a more Peculiar Reſpect from God<g ref="char:punc">▪</g> in part expreſt, by the Prophets Right ſide, when <hi>Iſrael</hi>'s was ſignified by his Left, <hi>v.</hi> 4. 6. the Lord therefore not only Bearing longer with it, 1 <hi>Kings</hi> 15. 4. But alſo more graciouſly ſtriving with them by the Miniſtery of <hi>Jeremy,</hi> which, from the 13th of <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> to the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> end of that Kingdom in <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>'s Captivity, was much about 40 years, (tho' ſome refer thoſe 40 years to the 40 or <hi>Manaſſes</hi> Ill Reign) wherein, God in a ſpecial manner Bore with the Houſe of <hi>Judah.</hi> And whereas a late Writer, in his Line of Time, makes theſe 40 years Conſequent to the 390, and not Inclu<g ref="char:EOLhyphen"/>ded; I ſee no ground for it; but rather, (as Mr. <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> not Additional, tho' Diſtinct from the other Number, and which <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Writer therefore makes the 390 years Reach to the time of <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 25 years after the Captivity; and <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which is a Double Miſtake, if this my <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Neither can I con<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> with his ſence <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:34800:7" rendition="simple:additions"/>
+years, <hi>viz<g ref="char:punc">▪</g>
+               </hi> to be the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Types in <hi>David</hi> and <hi>Solom<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> to the Viſion of <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Temple, the firſt time of Bearing Iniquity or Puniſhment of i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Delay of the Kingdom of Chriſt. But rather take it; as <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the Lord's <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they ſhould Bear the Puniſhment of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by; or the time of their Bearing that Puniſhment; or Both<hi>:</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in the 390 Days, Myſtically Underſtood, Ending the <hi>8th</hi> of <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Latter Litterally (as Mr. <hi>Greenhill</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>) the time of the Siege <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>19th,</hi> which will be found (ſaith he) juſt ſo many Dayes, <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> time of the Raiſing of the Siege (by <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>'s</hi> Armies coming, out of the <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> that the Siege did hold from the firſt to the laſt. But however, Where doth it Appear, that Types or Viſions did ceaſe, till <hi>Ezekiels?</hi> Was not <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> and <hi>Joſiah</hi> (eſpecially) ſome Adumbration and Shadow thereof? And had not <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> and <hi>Jeremy</hi> (Between thoſe times mention'd, many Viſions, of at leaſt Prophe<g ref="char:EOLhyphen"/>tical Diſcoveries of it? <hi>Iſa.</hi> 32. 33. <hi>Chap.</hi> 44. 26, <hi>&amp;c. Jer.</hi> 23. 5. 6. 7. <hi>Ch.</hi> 25. 12. and 29. 10. <hi>Chap.</hi> 30. 8, 9, 10. with other places.</p>
+            <p>Now, as <hi>Solomon</hi>'s Kingdom, Temple, and the Glory of the <hi>Jeniſh Church,</hi> did ſoon Decay, and Gradually Degenerate, until at laſt, All were Seized by the King of <hi>Babylon;</hi> 390 years from <hi>Solomon</hi>'s <hi>27th</hi> to <hi>Jeconiah</hi>'s Captivity (and ve<g ref="char:EOLhyphen"/>ry nigh that time from <hi>Solomon</hi>'s Death to <hi>Zedekiah</hi>'s Captivity, when Temple and City was Deſtroyed) which things were Types: So did the Spiritual Glory of Goſpel-Temples (as alſo did that Emblem of Chriſts Temporal Kingdom af<g ref="char:EOLhyphen"/>terward in <hi>Conſtantine,</hi> &amp;c.) Paſs Away, by Degrees, (25 years After the Reſur<g ref="char:EOLhyphen"/>rection, ſaith that aforeſaid late Writer) until they fell into that Antichriſtian Apoſtacy and Captivity Begun about 390 from Chriſts Birth (as ſome have fix<g ref="char:EOLhyphen"/>ed it, on Other Grounds; tho' others, about 425 from <hi>Celeſtin</hi>'s Claiming Tem<g ref="char:EOLhyphen"/>poral Power too; which was about one year more from Chriſt's Death.) Now whether theſe 390, <hi>Ezek.</hi> 4., <hi>Ch.</hi> may not Indigitate the Time of Antichriſt's Riſe, I leave to Conſideration. Since as the 70 years Captivity were Typical of Antichriſt's 42 Months (or 1260 dayes.) And 70 being Multiplied, firſt <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by 3, and then again by 6 (Both Myſtick Numbers) makes <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>260 (or 42 Months) which Number 6, is more Remarkable in this matter, As Uſed with Reſpect to Trials, and Greater Judgments, <hi>viz.</hi> Troubles <hi>(Job</hi> 5. 19.) 6 Slaughter-men, <hi>(Ezek.</hi> 7.2.) 6 (Firſt) Trumpets, Introducing Antichriſt and other Plagues: and 6 things the Lord Hates <hi>(Prov.</hi> 6. 16) All which, (with the <hi>7th</hi> there alſo) are Remarkably in the Papacy; as Alſo making up that Number of the Beaſt <hi>(Rev.</hi> 13. 18.) 666. Conſiſting of 3 Six's, whether Applied (as ſome) to Numeral Letters in <hi>Romanus,</hi> or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Or becauſe 666 is the Square Root of 25 (that Noted Unfortunate Number) ſo much found in the Papacy<hi>:</hi> Or, whe<g ref="char:EOLhyphen"/>ther becauſe the Beaſt was Inſtall'd under <hi>Ph<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>as</hi> in 6<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6, which (ſaith ſome) was the <hi>666th</hi> Year from the Beginning of the <hi>Roman</hi> Empire. Now this 666 made up of Six's, and of 3's (or 3 times 6, and 6 times 3, in the 2 Halves thereof
+<list>
+                  <item>333</item>
+                  <item>333</item>
+               </list>
+which 3 times 6 in 666, are by <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> called One Degree (conſiſt<g ref="char:EOLhyphen"/>ing of <hi>
+                  <g ref="char:V">Ʋ</g>nits, Tens</hi> and <hi>Hundreds)</hi> and ſuch a Firſt, or One Onely Degree, As Chriſts Univerſal Vicar, is Antichriſt, that hath not its Fellow. And in the
+<pb facs="tcp:34800:7" rendition="simple:additions"/>
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Products Added together, make 12<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0. Or <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> makes 430, and that Multiply'd by 3, and it then <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> count, Expireth with the 126<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> years, or 42 <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of late, who begin them at the ſame time, make the <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> After the 1260.) And thus the 390 aforeſaid, may <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Captivities, both in the <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the 70 years, and that of the 126<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> The one 39<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and the other 390 years After Chriſt. And the <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the manner aforeſaid, may more darkly Intimate the <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Myſtical <hi>Baby<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>niſh</hi> Captivity, would Expire with <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> moſt (as well as I) have Begun from <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> build the <hi>J<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rs</hi> Temple, in Deſpite to <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>For a Concluſion; As we our ſelves have been and <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Iniquity, ſo let's wait for Grace and Strength, to do it <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Becomingly (in all Reſpects) Travailing for thoſe Fruits of it; <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> appear by Vertue of the Promiſe and the Blood of Chriſt, in Sio<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Latter day <hi>Redemption.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <head>POSTCRIPT.</head>
+            <p>FOr the further clearing up of <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>'s Reigning but 4<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> years <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of his <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to his Father's 29. (tho' ſome allow <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 52 years beſides; and others that do not, yet are in doubt about it; and both <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his 41 years with <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> begun them at his <hi>15th</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> began <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, 2 <hi>Kings</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>4. 23. and (as <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>) about 3 years after, <hi>viz.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>18th</hi> year <hi>Amaziah</hi> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed (on a <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> him) <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 11 years began, which <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> muſt begin about the <hi>4th</hi> of <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> (and not his <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) (as aforeſaid) was <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and his <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> thus appears <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> from the <hi>15th</hi> of <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> this agrees without any <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the 2 <hi>Kings</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:34800:8" rendition="simple:additions"/>
+               <hi>boam</hi>'s, and then the time of his firſt Beginning with his Father will be <hi>Jeroboam</hi>'s <hi>15th</hi> and not his <hi>4th</hi> as I here make it. And how to Anſwer this, I confeſs, I know not; unleſs by a double beginning of <hi>Jeroboam,</hi> one with his Father about 12 years, and ſo his <hi>27th</hi> and <hi>15th</hi> may be the ſame. Or unleſs, we may conceive that <hi>Amaziah</hi> might live 11 years longer then the 15 mentioned, 2 <hi>Kings</hi> 14. 17. that being capable (I humbly judge) of being underſtood with reference to the time of his being King, (or living as King) ſomewhat like hereunto ſee in 2 <hi>Chron.</hi> 16. 1. and 22. 2. in which laſt the 42 years of <hi>Ahaziah</hi>'s Age was meant of the Kingdom (of his Fathers, the Houſe of <hi>Omri)</hi> compar'd with 2 <hi>Kings</hi> 8. 26. And ſo after this 11 years of <hi>Azariah</hi> with his Fathers 29 he might continue after the ſame manner, (or under Protectors) whilſt his Father lived, (or if then Dead, becauſe of his Minority, till he was ſolemnly Crowned or Confirmed about 11 or 12 years after in the <hi>27th</hi> of <hi>Jeroboam,</hi> and ſo be ſaid to Reign then; ſee 2 <hi>Kings</hi> 14. 21. It is not ſaid as of ſome others that when the Father Dyed the Son Reigned in his ſtead. But <hi>all the People took</hi> Azariah <hi>and ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e him King,</hi> &amp;c.</p>
+            <p>The <hi>Reader</hi> may note, After I had drawn out this Scheme of 390 years, from the <hi>27th</hi> of <hi>Solomon</hi> to <hi>Jehojachins</hi> Captivity; I ſaw Mr. <hi>T. A</hi>'s Chronology, who makes it (Litera<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 431,) but 420 years Compleat from <hi>Solomon</hi>'s Temple Be<g ref="char:EOLhyphen"/>gun, to its Deſtruction in <hi>Zedekiah</hi>'s Captivity (where he Begins the 70 years, with a Miſtake, I judge) now he begins thoſe 390 years from the <hi>4th</hi> of <hi>Solo<g ref="char:EOLhyphen"/>mon,</hi> I with his <hi>27th,</hi> he carries them to the End of <hi>Zedekiah;</hi> I to <hi>Jehojachins<g ref="char:punc">▪</g>
+               </hi> Now between the <hi>4th</hi> of <hi>Solomon</hi> and his <hi>27th</hi> is 23; and between <hi>Jehajachins</hi> and <hi>Zedekiah</hi>'s laſt is 11, both make 34, which, makes with the <hi>390th,</hi> 424, which are but 4 years difference from his 420 Compleat, and 4 we differ in <hi>Jehoram</hi>'s Reign, (King of <hi>Judah)</hi> he Allows him but 4 (alone) inſtead of which I have Al<g ref="char:EOLhyphen"/>lowed 8, and ſubmit that, and the Whole, to Examination. But if notwithſtand<g ref="char:EOLhyphen"/>ing what I have offer'd the 390 dayes, or years, be thought more properly Re<g ref="char:EOLhyphen"/>ferrable to the Final Captivity, at the Deſtruction of City and Temple, 11 years After; I cannot (at preſent) ſee any way how that can be done, but by Al<g ref="char:EOLhyphen"/>lowing <hi>Azariah</hi> 52 years beſides the 29 of his Fathers, or an Interregnum of 11 years (in Effect the ſame thing) which alſo will neceſſitate a like Interregnum in <hi>Iſrael;</hi> which I ſee no ground for; the time of the Kings in both Kingdoms ſo much Harmonizing in this Account I have given; Both of the Particular Beginnings of each Line of Kings, one with the other; and of the Total Sum of years of each Kingdoms Continuance, Adjuſted one with the other, to their reſpective Periods. And ſo I ſhall with that Supplication end. <hi>O ſend out thy Light and thy Truth,</hi> Pſal. 43. 3. both in this, and other more Important Matters.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34800:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
